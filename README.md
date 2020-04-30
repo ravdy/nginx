@@ -1,2 +1,1 @@
-# nginx
-test entry
+# nginx documentation for beginners
