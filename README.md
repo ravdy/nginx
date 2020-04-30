@@ -1,1 +1,1 @@
-# nginx documentation
+# nginx documentation for beginners
