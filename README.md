@@ -1,1 +1,1 @@
-# nginx
+# nginx documentation
